@@ -1,0 +1,10 @@
+{
+  "name": "trunk8",
+  "description": "jQuery truncation plugin",
+  "homepage": "https://github.com/ericraio/meteor-trunk8",
+  "author": "Eric Raio (http://ericscript.com)",
+  "version": "0.0.1",
+  "git": "https://github.com/ericraio/meteor-trunk8.git",
+  "packages": {
+  }
+}
